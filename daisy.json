@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1566163687,
-      "filename": "AOSiP-9.0-Pizza-daisy-20190818.zip",
-      "id": "e445a6a00b15fcccf9829cc39322ad44",
+      "datetime": 1568311997,
+      "filename": "AOSiP-9.0-Pizza-daisy-20190912.zip",
+      "id": "0ed760c72890edd600dfc1495ec14864",
       "romtype": "nightly",
-      "size": 431587246,
-      "url": "https://sourceforge.net/projects/aosip-daisy-ota/files/builds/AOSiP-9.0-Pizza-daisy-20190818.zip",
+      "size": 433311217,
+      "url": "https://sourceforge.net/projects/aosip-daisy-ota/files/builds/AOSiP-9.0-Pizza-daisy-20190912.zip",
       "version": "9.0"
     }
   ]
